@@ -7,3 +7,7 @@
 # 스크립트 모듈은 public 디렉토리의 index.html에 선언합니다.
 
 # 라이브러리 모듈을 새로운 객체로서 페이지에서 사용하려면 tsconfig 세팅이 필요합니다. (예: "types": ["kakao.maps.d.ts"] )
+
+# 카카오 맵의 경우 개인 키를 발급받아 도메인을 적용해야 합니다. (https://apis.map.kakao.com/web/guide/)
+
+# 페이먼츠 API는 테스트용으로 실제로 결제가 되지 않습니다.
