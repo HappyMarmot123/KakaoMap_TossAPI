@@ -8,7 +8,7 @@
 2. 노드 프로젝트 경로에서 서버를 실행합니다. (npm run dev)
 
 # 모듈 관련
-1. 카카오 맵의 경우 개인 키를 발급받아 도메인을 적용해야 합니다. (https://apis.map.kakao.com/web/guide/)
+1. 카카오 맵의 경우 개인 키를 발급받아 도메인을 적용해야 합니다. 경로: react-app/public/index.html (https://apis.map.kakao.com/web/guide/)
 2. 페이먼츠 API는 테스트용으로 키 발급이 필요하지 않습니다. (https://docs.tosspayments.com/guides/v2/payment-widget/integration?frontend=react)
 3. 페이먼츠 API는 테스트용으로 실제로 결제가 되지 않습니다.
 4. 스크립트 모듈은 public 디렉토리의 index.html에 선언합니다.
