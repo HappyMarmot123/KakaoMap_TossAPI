@@ -4,8 +4,10 @@
 2. 서버 관련은 노드에서, 페이지와 라우팅 그리고 API 모듈은 리액트가 담당합니다.
 
 # 실행 방법 🚀
-1. 리액트 파일을 리액트 프로젝트 경로에서 html으로 빌드합니다. (npm run build)
-2. 노드 프로젝트 경로에서 서버를 실행합니다. (npm run dev)
+1. 개발 환경과 같은 Visual Studio Code에서 프로젝트를 클론합니다.
+2. 리액트와 노드의 라이브러리 패키지를 다운로드 받습니다. (npm i)
+3. 리액트 파일을 리액트 프로젝트 경로에서 html으로 빌드합니다. (npm run build)
+4. 노드 프로젝트 경로에서 서버를 실행합니다. (npm run dev)
 
 # 모듈 관련 🚀
 1. 카카오 맵의 경우 개인 키를 발급받아 도메인을 적용해야 합니다. 경로: react-app/public/index.html (https://apis.map.kakao.com/web/guide/)
